@@ -1,3 +1,4 @@
 def parrot
-  pu
+  puts "Squawk!"
+  "Squawk!"
 end
